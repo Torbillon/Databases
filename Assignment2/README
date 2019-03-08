@@ -1,0 +1,16 @@
+1)
+Make sure CLASSPATH includes the directory of mysql-connector-java-5.1.45-bin.jar
+
+This is so that the "com.mysql.jdbc.Driver" driver can be used
+
+2)
+
+to compile:
+
+javac Assign2.java
+
+3)
+
+to run:
+
+java Assign2

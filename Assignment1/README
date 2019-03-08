@@ -1,0 +1,5 @@
+to compile:
+javac Stocks.java
+
+to run:
+java Stocks Stockmarket-1990-2015.txt
